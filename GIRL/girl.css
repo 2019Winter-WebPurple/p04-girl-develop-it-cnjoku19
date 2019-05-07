@@ -1,0 +1,89 @@
+/*
+* Chioma joku
+* May 7, 2019
+* Girl Develop It
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+    
+margin: auto;
+    
+background-color: #ffe6e6;
+    
+}
+
+/* Floating moves the images in a certain direction while letting the text fill in the gaps */
+ #GirlsWithLaptops {
+            float: right;
+            }
+
+ #NotBoyfriendPC {
+            float: right;
+            }
+
+
+footer{ 
+    clear: both;}
+
+
+
+/* This moves the logo to the center of the header */
+header {
+
+text-align: center;
+    
+margin: auto;
+    
+background-color: #ff6666;
+}
+
+
+
+/* There are additional fonts incase the browser can't display the first pick */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:
+}
+
+
+
+h1{
+    font-size: 180%;
+    text-decoration: underline;
+    font-family: "Apple Chancery", "lucida handwriting", "Bradley Hand";
+}
+
+
+
+body{
+    font-family: arial, helvetica, sans-serif;
+}
+
+
+
+h2{
+    text-decoration: underline;
+    font-family: "Apple Chancery", "lucida handwriting", "Bradley Hand";
+}
+
+
+
+footer{
+    font-family: "Times New Roman", Times, serif
+}
+
+
+
+/* This changes the size and color of the link when you hover */
+
+a:hover, a:focus {color: deeppink; font-size:115%; }
+ 
+}
